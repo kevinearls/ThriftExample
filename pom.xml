@@ -13,7 +13,7 @@
         <build.helper.maven.plugin.version>3.0.0</build.helper.maven.plugin.version>
         <exec-maven-plugin.version>1.6.0</exec-maven-plugin.version>
         <jaeger.version>0.24.0</jaeger.version>
-        <junit.version>4.12</junit.version>
+        <junit.version>4.13.1</junit.version>
         <maven.compiler.plugin.version>3.6.1</maven.compiler.plugin.version>
         <maven.compiler.source>1.8</maven.compiler.source>
         <maven.compiler.target>1.8</maven.compiler.target>
